@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Trading Bot Dashboard</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #f4f4f4; padding: 20px; }
+        table { width: 100%; border-collapse: collapse; background: white; }
+        th, td { border: 1px solid #ccc; padding: 10px; text-align: left; }
+        th { background-color: #333; color: white; }
+        tr:nth-child(even) { background-color: #f9f9f9; }
+        h1 { color: #333; }
+    </style>
+</head>
+<body>
+    <h1>Trading Bot Trade History</h1>
+    <table>
+        <tr>
+            <th>Timestamp</th>
+            <th>Symbol</th>
+            <th>Action</th>
+            <th>Price</th>
+            <th>Result</th>
+        </tr>
+        {% for trade in trades %}
+        <tr>
+            <td>{{ trade.timestamp }}</td>
+            <td>{{ trade.symbol }}</td>
+            <td>{{ trade.action }}</td>
+            <td>{{ trade.price }}</td>
+            <td>{{ trade.result }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

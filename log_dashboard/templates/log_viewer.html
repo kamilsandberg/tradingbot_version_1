@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bot Live Log</title>
+    <style>
+        body { font-family: monospace; background: #111; color: #0f0; padding: 20px; }
+        pre { white-space: pre-wrap; word-wrap: break-word; }
+    </style>
+</head>
+<body>
+    <h2>📡 AI Trading Bot - Live Logs</h2>
+    <pre id="log"></pre>
+    <script>
+        const log = document.getElementById('log');
+        const source = new EventSource('/stream');
+        source.onmessage = function(e) {
+            log.textContent += e.data + "\n";
+            log.scrollTop = log.scrollHeight;
+        };
+    </script>
+</body>
+</html>

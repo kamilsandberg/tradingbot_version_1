@@ -1,0 +1,8 @@
+alpaca/secrets.py
+secrets.py
+# .gitignore
+__pycache__/
+*.pyc
+.env
+ai/trade_memory.db
+ai/thresholds.json

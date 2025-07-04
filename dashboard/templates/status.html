@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Bot Status</title>
+    <script>
+        function fetchStatus() {
+            fetch('/status')
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById("status-text").innerText = data.status;
+                });
+        }
+    </script>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #f9f9f9; text-align: center; padding-top: 50px;">
+    <h1>🤖 AI Trading Bot Status</h1>
+    <button onclick="fetchStatus()" style="padding: 10px 20px; font-size: 16px;">Show me what you're working on</button>
+    <p id="status-text" style="margin-top: 20px; font-size: 18px; color: #333;"></p>
+</body>
+</html>

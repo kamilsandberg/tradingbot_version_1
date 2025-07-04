@@ -1,0 +1,513 @@
+[
+  {
+    "timestamp": "2025-06-30T12:10:09.176722",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 201.05,
+    "result": "Bought 4.9739 of AAPL"
+  },
+  {
+    "timestamp": "2025-06-30T12:12:43.085824",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 201.05,
+    "result": "Bought 4.9739 of AAPL"
+  },
+  {
+    "timestamp": "2025-06-30T12:12:43.086530",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 323.01,
+    "result": "Bought 3.0959 of TSLA"
+  },
+  {
+    "timestamp": "2025-06-30T12:12:53.326170",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 201.05,
+    "result": "Bought 4.9739 of AAPL"
+  },
+  {
+    "timestamp": "2025-06-30T12:12:53.326983",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 323.01,
+    "result": "Bought 3.0959 of TSLA"
+  },
+  {
+    "timestamp": "2025-06-30T12:13:03.548245",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 201.05,
+    "result": "Bought 4.9739 of AAPL"
+  },
+  {
+    "timestamp": "2025-06-30T12:13:03.549044",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 323.01,
+    "result": "Bought 3.0959 of TSLA"
+  },
+  {
+    "timestamp": "2025-06-30T12:13:13.772435",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 201.05,
+    "result": "Bought 4.9739 of AAPL"
+  },
+  {
+    "timestamp": "2025-06-30T12:13:13.773351",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 323.01,
+    "result": "Bought 3.0959 of TSLA"
+  },
+  {
+    "timestamp": "2025-06-30T12:13:24.046376",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 201.05,
+    "result": "Bought 4.9739 of AAPL"
+  },
+  {
+    "timestamp": "2025-06-30T12:13:24.047248",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 323.01,
+    "result": "Bought 3.0959 of TSLA"
+  },
+  {
+    "timestamp": "2025-06-30T12:13:34.278678",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 201.05,
+    "result": "Held AAPL"
+  },
+  {
+    "timestamp": "2025-06-30T12:13:34.279564",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 323.01,
+    "result": "Held TSLA"
+  },
+  {
+    "timestamp": "2025-06-30T12:13:44.526845",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 201.05,
+    "result": "Held AAPL"
+  },
+  {
+    "timestamp": "2025-06-30T12:13:44.527868",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 323.01,
+    "result": "Held TSLA"
+  },
+  {
+    "timestamp": "2025-06-30T12:13:54.755179",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 201.05,
+    "result": "Held AAPL"
+  },
+  {
+    "timestamp": "2025-06-30T12:13:54.756274",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 323.01,
+    "result": "Held TSLA"
+  },
+  {
+    "timestamp": "2025-06-30T12:14:05.007066",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 201.05,
+    "result": "Held AAPL"
+  },
+  {
+    "timestamp": "2025-06-30T12:14:05.008210",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 323.01,
+    "result": "Held TSLA"
+  },
+  {
+    "timestamp": "2025-06-30T12:14:15.246421",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 201.05,
+    "result": "Held AAPL"
+  },
+  {
+    "timestamp": "2025-06-30T12:14:15.247507",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 323.01,
+    "result": "Held TSLA"
+  },
+  {
+    "timestamp": "2025-06-30T12:14:25.473015",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 201.05,
+    "result": "Held AAPL"
+  },
+  {
+    "timestamp": "2025-06-30T12:14:25.474271",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 323.01,
+    "result": "Held TSLA"
+  },
+  {
+    "timestamp": "2025-06-30T12:14:35.727033",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 201.05,
+    "result": "Held AAPL"
+  },
+  {
+    "timestamp": "2025-06-30T12:14:35.728235",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 323.01,
+    "result": "Held TSLA"
+  },
+  {
+    "timestamp": "2025-07-02T10:59:01.291327",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 207.815,
+    "result": "\u274c Alpaca BUY failed for AAPL: 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/orders"
+  },
+  {
+    "timestamp": "2025-07-02T10:59:01.493367",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 301.35,
+    "result": "\u274c Alpaca BUY failed for TSLA: 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/orders"
+  },
+  {
+    "timestamp": "2025-07-02T10:59:11.954009",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 207.815,
+    "result": "\u274c Alpaca BUY failed for AAPL: 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/orders"
+  },
+  {
+    "timestamp": "2025-07-02T10:59:12.144069",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 301.35,
+    "result": "\u274c Alpaca BUY failed for TSLA: 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/orders"
+  },
+  {
+    "timestamp": "2025-07-02T10:59:22.533273",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 207.815,
+    "result": "\u274c Alpaca BUY failed for AAPL: 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/orders"
+  },
+  {
+    "timestamp": "2025-07-02T10:59:22.640061",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 301.35,
+    "result": "\u274c Alpaca BUY failed for TSLA: 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/orders"
+  },
+  {
+    "timestamp": "2025-07-02T10:59:33.035396",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 207.815,
+    "result": "\u274c Alpaca BUY failed for AAPL: 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/orders"
+  },
+  {
+    "timestamp": "2025-07-02T10:59:33.236088",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 301.35,
+    "result": "\u274c Alpaca BUY failed for TSLA: 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/orders"
+  },
+  {
+    "timestamp": "2025-07-02T10:59:43.685143",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 207.815,
+    "result": "\u274c Alpaca BUY failed for AAPL: 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/orders"
+  },
+  {
+    "timestamp": "2025-07-02T10:59:43.886157",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 301.35,
+    "result": "\u274c Alpaca BUY failed for TSLA: 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/orders"
+  },
+  {
+    "timestamp": "2025-07-02T10:59:54.234368",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 207.815,
+    "result": "\u274c Alpaca BUY failed for AAPL: 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/orders"
+  },
+  {
+    "timestamp": "2025-07-02T10:59:54.366159",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 301.35,
+    "result": "\u274c Alpaca BUY failed for TSLA: 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/orders"
+  },
+  {
+    "timestamp": "2025-07-02T11:00:04.981286",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 207.815,
+    "result": "\u274c Alpaca BUY failed for AAPL: 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/orders"
+  },
+  {
+    "timestamp": "2025-07-02T11:00:05.185849",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 301.35,
+    "result": "\u274c Alpaca BUY failed for TSLA: 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/orders"
+  },
+  {
+    "timestamp": "2025-07-02T11:00:15.634302",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 207.815,
+    "result": "\u274c Alpaca BUY failed for AAPL: 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/orders"
+  },
+  {
+    "timestamp": "2025-07-02T11:00:15.835561",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 301.35,
+    "result": "\u274c Alpaca BUY failed for TSLA: 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/orders"
+  },
+  {
+    "timestamp": "2025-07-02T11:00:26.286412",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 207.815,
+    "result": "\u274c Alpaca BUY failed for AAPL: 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/orders"
+  },
+  {
+    "timestamp": "2025-07-02T11:00:26.485418",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 301.35,
+    "result": "\u274c Alpaca BUY failed for TSLA: 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/orders"
+  },
+  {
+    "timestamp": "2025-07-02T11:00:36.931173",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 207.815,
+    "result": "\u274c Alpaca BUY failed for AAPL: 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/orders"
+  },
+  {
+    "timestamp": "2025-07-02T11:00:37.134842",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 301.35,
+    "result": "\u274c Alpaca BUY failed for TSLA: 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/orders"
+  },
+  {
+    "timestamp": "2025-07-02T11:01:51.968744",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 207.815,
+    "result": "\u2705 Alpaca: Bought 1 share of AAPL"
+  },
+  {
+    "timestamp": "2025-07-02T11:01:52.087092",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 301.35,
+    "result": "\u2705 Alpaca: Bought 1 share of TSLA"
+  },
+  {
+    "timestamp": "2025-07-02T11:02:02.640673",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 207.815,
+    "result": "\u2705 Alpaca: Bought 1 share of AAPL"
+  },
+  {
+    "timestamp": "2025-07-02T11:02:02.758575",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 301.35,
+    "result": "\u2705 Alpaca: Bought 1 share of TSLA"
+  },
+  {
+    "timestamp": "2025-07-02T11:14:43.855435",
+    "symbol": "AAPL",
+    "action": "hold",
+    "price": 207.815,
+    "result": "\u2139\ufe0f Held AAPL"
+  },
+  {
+    "timestamp": "2025-07-02T11:14:44.200262",
+    "symbol": "TSLA",
+    "action": "hold",
+    "price": 301.35,
+    "result": "\u2139\ufe0f Held TSLA"
+  },
+  {
+    "timestamp": "2025-07-02T11:14:55.068907",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 207.815,
+    "result": "\u2705 Alpaca: Bought 48 shares of AAPL at $207.815"
+  },
+  {
+    "timestamp": "2025-07-02T11:14:55.566405",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 301.35,
+    "result": "\u2705 Alpaca: Bought 33 shares of TSLA at $301.35"
+  },
+  {
+    "timestamp": "2025-07-02T11:15:06.318560",
+    "symbol": "AAPL",
+    "action": "hold",
+    "price": 207.815,
+    "result": "\u2139\ufe0f Held AAPL"
+  },
+  {
+    "timestamp": "2025-07-02T11:15:06.626046",
+    "symbol": "TSLA",
+    "action": "hold",
+    "price": 301.35,
+    "result": "\u2139\ufe0f Held TSLA"
+  },
+  {
+    "timestamp": "2025-07-02T11:15:17.480498",
+    "symbol": "AAPL",
+    "action": "hold",
+    "price": 207.815,
+    "result": "\u2139\ufe0f Held AAPL"
+  },
+  {
+    "timestamp": "2025-07-02T11:15:17.889945",
+    "symbol": "TSLA",
+    "action": "hold",
+    "price": 301.35,
+    "result": "\u2139\ufe0f Held TSLA"
+  },
+  {
+    "timestamp": "2025-07-02T11:15:28.949529",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 207.815,
+    "result": "\u2705 Alpaca: Bought 48 shares of AAPL at $207.815"
+  },
+  {
+    "timestamp": "2025-07-02T11:15:29.359474",
+    "symbol": "TSLA",
+    "action": "hold",
+    "price": 301.35,
+    "result": "\u2139\ufe0f Held TSLA"
+  },
+  {
+    "timestamp": "2025-07-02T11:15:40.111378",
+    "symbol": "AAPL",
+    "action": "hold",
+    "price": 207.815,
+    "result": "\u2139\ufe0f Held AAPL"
+  },
+  {
+    "timestamp": "2025-07-02T11:15:40.520495",
+    "symbol": "TSLA",
+    "action": "hold",
+    "price": 301.35,
+    "result": "\u2139\ufe0f Held TSLA"
+  },
+  {
+    "timestamp": "2025-07-02T11:15:51.375265",
+    "symbol": "AAPL",
+    "action": "hold",
+    "price": 207.815,
+    "result": "\u2139\ufe0f Held AAPL"
+  },
+  {
+    "timestamp": "2025-07-02T11:15:51.682809",
+    "symbol": "TSLA",
+    "action": "hold",
+    "price": 301.35,
+    "result": "\u2139\ufe0f Held TSLA"
+  },
+  {
+    "timestamp": "2025-07-02T11:16:02.560758",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 207.815,
+    "result": "\u2705 Alpaca: Bought 48 shares of AAPL at $207.815"
+  },
+  {
+    "timestamp": "2025-07-02T11:16:02.955742",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 301.35,
+    "result": "\u2705 Alpaca: Bought 33 shares of TSLA at $301.35"
+  },
+  {
+    "timestamp": "2025-07-02T11:16:13.596930",
+    "symbol": "AAPL",
+    "action": "hold",
+    "price": 207.815,
+    "result": "\u2139\ufe0f Held AAPL"
+  },
+  {
+    "timestamp": "2025-07-02T11:16:13.910024",
+    "symbol": "TSLA",
+    "action": "hold",
+    "price": 301.35,
+    "result": "\u2139\ufe0f Held TSLA"
+  },
+  {
+    "timestamp": "2025-07-02T11:16:24.860706",
+    "symbol": "AAPL",
+    "action": "buy",
+    "price": 207.815,
+    "result": "\u2705 Alpaca: Bought 48 shares of AAPL at $207.815"
+  },
+  {
+    "timestamp": "2025-07-02T11:16:25.475621",
+    "symbol": "TSLA",
+    "action": "buy",
+    "price": 301.35,
+    "result": "\u2705 Alpaca: Bought 33 shares of TSLA at $301.35"
+  },
+  {
+    "timestamp": "2025-07-02T11:16:36.198087",
+    "symbol": "AAPL",
+    "action": "hold",
+    "price": 207.815,
+    "result": "\u2139\ufe0f Held AAPL"
+  },
+  {
+    "timestamp": "2025-07-02T11:16:36.435828",
+    "symbol": "TSLA",
+    "action": "hold",
+    "price": 301.35,
+    "result": "\u2139\ufe0f Held TSLA"
+  },
+  {
+    "timestamp": "2025-07-02T11:16:47.286416",
+    "symbol": "AAPL",
+    "action": "hold",
+    "price": 207.815,
+    "result": "\u2139\ufe0f Held AAPL"
+  },
+  {
+    "timestamp": "2025-07-02T11:16:47.695904",
+    "symbol": "TSLA",
+    "action": "hold",
+    "price": 301.35,
+    "result": "\u2139\ufe0f Held TSLA"
+  }
+]
